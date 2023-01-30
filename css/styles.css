@@ -105,6 +105,7 @@ body {
 
 .mail,
 .phone {
+  font-style: normal;
   color: var(--secondary-header-link-color);
 }
 

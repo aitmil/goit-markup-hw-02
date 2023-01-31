@@ -100,7 +100,7 @@ body {
 .header-link:hover,
 .header-link:focus,
 .header-link.current {
-  background-color: var(--primary-accent-color);
+  color: var(--primary-accent-color);
 }
 
 .mail,
